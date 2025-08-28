@@ -18,24 +18,22 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
 ## 🛠️ Getting Started
 
 1. **Clone the repo**
-   ```bash
-   git clone https://github.com/Fatema-coder/tours-list.git
-
+   -> git clone https://github.com/Fatema-coder/tours-list.git
 2. Go into the project folder
-   cd tours-list
+   -> cd tours-list
 3. Install dependencies
-   npm install
+   -> npm install
 4. Start the development server
-   npm start
+   -> npm start
 ➡️Your app should now be running on http://localhost:3000 
-
+---
 🎮 Usage
 -Browse and interact with tour cards
 -Use “Not Interested” to remove a tour
 -Click “Add More” to open form and add new tour
 -When all tours are gone, click “Refresh Tours” to reload
 -Toggle descriptions with “Read More / Show Less”.
-
+---
 📂 File Structure
 src/
 │── AddTourForm.js   # Form component for new tours
@@ -44,18 +42,24 @@ src/
 │── Tours.js         # Tour list container
 │── Tour.js          # Single tour card
 
+---
 
 🧑‍💻 Tech Stack
 ⚛️ React (Hooks)
 🎨 Tailwind CSS
 🌐 Fetch API
 
+---
+ 
 📸 Screenshots
 
 Add screenshots here
 The tours list view
 The form opened
 The empty state with the Refresh button
+
+---
+
 
 ## Live Demo
 👉 [Check it out here](tours-list-7tprip36m-fatema-surajs-projects.vercel.app)
