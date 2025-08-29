@@ -1,4 +1,4 @@
-# ✈️ Tours List App
+## ✈️ Tours List App
 
 A responsive **React + Tailwind** application to explore and manage tour destinations.  
 Easily browse tours, toggle details, remove ones you’re not interested in, or add your own! 🌍✨
@@ -12,10 +12,24 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
 - ➕ Add new tours via form
 - 🔄 Refresh list when all tours are removed
 - 🎨 Fully responsive with Tailwind CSS
+- 🌐 Deployed on [Vercel](#) 
+
+  ---
+  
+ ## 📸 Preview
+
+Add screenshots here
+The tours list view
+The form opened
+The empty state with the Refresh button
 
 ---
+## Live Demo
 
-## 🛠️ Getting Started
+👉 [Check it out here](tours-list-7tprip36m-fatema-surajs-projects.vercel.app)
+---
+
+# 🛠️ Getting Started
 
 1. **Clone the repo**
    -> git clone https://github.com/Fatema-coder/tours-list.git
@@ -27,14 +41,16 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
    -> npm start
 ➡️Your app should now be running on http://localhost:3000 
 ---
-🎮 Usage
+## 🎮 Usage
+
 -Browse and interact with tour cards
 -Use “Not Interested” to remove a tour
 -Click “Add More” to open form and add new tour
 -When all tours are gone, click “Refresh Tours” to reload
 -Toggle descriptions with “Read More / Show Less”.
 ---
-📂 File Structure
+## 📂 File Structure
+
 src/
 │── AddTourForm.js   # Form component for new tours
 │── App.js           # Main app + state management
@@ -50,16 +66,8 @@ src/
 🌐 Fetch API
 
 ---
- 
-📸 Screenshots
-
-Add screenshots here
-The tours list view
-The form opened
-The empty state with the Refresh button
-
----
+## 👩‍💻 Author
+Made with 💖 by Fatema
+GitHub
 
 
-## Live Demo
-👉 [Check it out here](tours-list-7tprip36m-fatema-surajs-projects.vercel.app)
