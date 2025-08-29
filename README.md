@@ -1,4 +1,4 @@
-<img width="1356" height="559" alt="tour1" src="https://github.com/user-attachments/assets/be4be5af-f9bb-4c1f-af93-d88c8bd6d0b5" />## ✈️ Tours List App
+## ✈️ Tours List App
 
 A responsive **React + Tailwind** application to explore and manage tour destinations.  
 Easily browse tours, toggle details, remove ones you’re not interested in, or add your own! 🌍✨
@@ -18,10 +18,12 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
   
  ## 📸 Preview
 
-- 
-- ![Uploading tour2.PNG…]()
+- <img width="1356" height="559" alt="tour1" src="https://github.com/user-attachments/assets/be4be5af-f9bb-4c1f-af93-d88c8bd6d0b5" />
 
-- 
+- <img width="1332" height="584" alt="tour2" src="https://github.com/user-attachments/assets/774ac5ca-57b8-461e-b7a9-24c98d85124a" />
+
+- <img width="1337" height="625" alt="tour3" src="https://github.com/user-attachments/assets/7f238819-d90d-4bd7-8eea-31a6d1909d5f" />
+
 - The empty state with the Refresh button
 
 ---
