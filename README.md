@@ -47,11 +47,11 @@ The empty state with the Refresh button
 
 ## 🎮 Usage
 
--Browse and interact with tour cards
--Use “Not Interested” to remove a tour
--Click “Add More” to open form and add new tour
--When all tours are gone, click “Refresh Tours” to reload
--Toggle descriptions with “Read More / Show Less”.
+- Browse and interact with tour cards
+- Use “Not Interested” to remove a tour
+- Click “Add More” to open form and add new tour
+- When all tours are gone, click “Refresh Tours” to reload
+- Toggle descriptions with “Read More / Show Less”.
 
 ---
 
