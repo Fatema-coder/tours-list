@@ -24,9 +24,11 @@ The form opened
 The empty state with the Refresh button
 
 ---
-## Live Demo
+
+##✨ Live Demo
 
 👉 [Check it out here](tours-list-7tprip36m-fatema-surajs-projects.vercel.app)
+
 ---
 
 # 🛠️ Getting Started
@@ -39,8 +41,10 @@ The empty state with the Refresh button
    -> npm install
 4. Start the development server
    -> npm start
-➡️Your app should now be running on http://localhost:3000 
+➡️Your app should now be running on http://localhost:3000
+
 ---
+
 ## 🎮 Usage
 
 -Browse and interact with tour cards
@@ -48,7 +52,9 @@ The empty state with the Refresh button
 -Click “Add More” to open form and add new tour
 -When all tours are gone, click “Refresh Tours” to reload
 -Toggle descriptions with “Read More / Show Less”.
+
 ---
+
 ## 📂 File Structure
 
 src/
@@ -66,6 +72,7 @@ src/
 🌐 Fetch API
 
 ---
+
 ## 👩‍💻 Author
 Made with 💖 by Fatema
 GitHub
