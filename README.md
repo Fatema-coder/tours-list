@@ -14,7 +14,7 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
 - 🎨 Fully responsive with Tailwind CSS
 - 🌐 Deployed on [Vercel](#) 
 
-  ---
+ ---
   
  ## 📸 Preview
 
@@ -25,7 +25,7 @@ The empty state with the Refresh button
 
 ---
 
-##✨ Live Demo
+## ✨Live Demo
 
 👉 [Check it out here](tours-list-7tprip36m-fatema-surajs-projects.vercel.app)
 
