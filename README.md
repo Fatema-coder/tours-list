@@ -18,10 +18,10 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
   
  ## 📸 Preview
 
-Add screenshots here
-The tours list view
-The form opened
-The empty state with the Refresh button
+- Add screenshots here
+- The tours list view
+- The form opened
+- The empty state with the Refresh button
 
 ---
 
@@ -57,19 +57,19 @@ The empty state with the Refresh button
 
 ## 📂 File Structure
 
-src/
-│── AddTourForm.js   # Form component for new tours
-│── App.js           # Main app + state management
-│── Loading.js       # Loading spinner
-│── Tours.js         # Tour list container
-│── Tour.js          # Single tour card
+- src/
+- │── AddTourForm.js   # Form component for new tours
+- │── App.js           # Main app + state management
+- │── Loading.js       # Loading spinner
+- │── Tours.js         # Tour list container
+- │── Tour.js          # Single tour card
 
 ---
 
-🧑‍💻 Tech Stack
-⚛️ React (Hooks)
-🎨 Tailwind CSS
-🌐 Fetch API
+- 🧑‍💻 Tech Stack
+- ⚛️ React (Hooks)
+- 🎨 Tailwind CSS
+- 🌐 Fetch API
 
 ---
 
