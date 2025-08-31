@@ -1,3 +1,7 @@
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ## ✈️ Tours List App
 
 A responsive **React + Tailwind** application to explore and manage tour destinations.  
@@ -30,7 +34,8 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
 
 ## ✨Live Demo
 
-👉 [Check it out here](tours-list-irhc232rt-fatema-surajs-projects.vercel.app)
+👉 [Check it out here](https://tours-list-irhc232rt-fatema-surajs-projects.vercel.app)
+
 
 ---
 
@@ -60,10 +65,11 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
 
 ## ℹ️ Note about API Data
 
-This project uses an external data source stored in a separate repository.
-The data is hosted in my tour-data repo, which serves as a simple API for this app.
+This project uses an external data source stored in a separate repository.  
+👉 [Tour Data Repository](https://github.com/Fatema-coder/tour-data)  
 
-Make sure to check out that repository if you want to see or modify the JSON data.
+The data is hosted there as JSON and serves as a simple API for this app.  
+
 ---
 
 ## 📂 File Structure
@@ -85,7 +91,7 @@ Make sure to check out that repository if you want to see or modify the JSON dat
 ---
 
 ## 👩‍💻 Author
-Made with 💖 by Fatema
-GitHub
+Made with 💖 by [Fatema](https://github.com/Fatema-coder)
+
 
 
