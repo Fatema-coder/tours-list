@@ -10,7 +10,7 @@ function App() {
   const [tours, setTours] = useState([]);
   const [error, setError] = useState(false);
   const [showForm, setShowForm] = useState(false);
-  const url = 'https://raw.githubusercontent.com/Samma05/react-tours-data/refs/heads/main/tours.json'
+  const url = 'https://raw.githubusercontent.com/Fatema-coder/react-tours-data/refs/heads/main/tours-data'
 
   const fetchTours = async () => {
     try {
