@@ -66,7 +66,7 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
 ## ℹ️ Note about API Data
 
 This project uses an external data source stored in a separate repository.  
-👉 [Tour Data Repository](https://github.com/Fatema-coder/react-tour-data)  
+👉 [react-tour-data](https://github.com/Fatema-coder/react-tour-data) 
 
 The data is hosted there as JSON and serves as a simple API for this app.  
 
