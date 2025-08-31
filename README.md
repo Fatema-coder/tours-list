@@ -24,7 +24,7 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
 
 - <img width="1337" height="625" alt="tour3" src="https://github.com/user-attachments/assets/7f238819-d90d-4bd7-8eea-31a6d1909d5f" />
 
-- The empty state with the Refresh button
+- <img width="920" height="288" alt="tour4" src="https://github.com/user-attachments/assets/f0bf050b-cc98-4fff-9aa2-04b345acf60f" />
 
 ---
 
@@ -56,6 +56,14 @@ Easily browse tours, toggle details, remove ones you’re not interested in, or 
 - When all tours are gone, click “Refresh Tours” to reload
 - Toggle descriptions with “Read More / Show Less”.
 
+---
+
+## ℹ️ Note about API Data
+
+This project uses an external data source stored in a separate repository.
+The data is hosted in my tour-data repo, which serves as a simple API for this app.
+
+Make sure to check out that repository if you want to see or modify the JSON data.
 ---
 
 ## 📂 File Structure
